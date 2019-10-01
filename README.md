@@ -9,7 +9,8 @@
 ## Základní rozložení se shiftem
 ![Základní rozložení se shiftem](/layout/JirsakShft.jpg)
 
-## AltGr rozložení se shiftem
+## AltGr rozložení
+Na obrázku to není vidět, ale AltGr+mezerník je neoddělitelná („tvrdá“) mezera.
 ![AltGr rozložení](/layout/JirsakAltGr.jpg)
 
 ## AltGr rozložení se shiftem
