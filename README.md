@@ -1,5 +1,5 @@
-# czech-jirsak
-Česká klávesnice pro Windows, která umožňuje psát české uvozovky, pomlčku, výpustku, tvrdou mezeru a další znaky.
+# České rozložení klávesnice *Czech – Jirsák*
+Česká klávesnice pro Windows, která umožňuje psát české uvozovky, pomlčku, výpustku, tvrdou mezeru a další znaky pomocí klávesy *AltGr*.
 
 # Rozložení klávesnice
 
